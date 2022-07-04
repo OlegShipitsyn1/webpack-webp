@@ -1,0 +1,16 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node webpack.config.mjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^7.0.0"
+  }
+}
